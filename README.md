@@ -77,4 +77,5 @@ image-steganography/
 \## 👩‍💻 Author
 
 Maitree Jain
+Sheetal Tamrkar
 
